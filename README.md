@@ -29,10 +29,8 @@ https://github.com/user-attachments/assets/9b467274-c408-4a43-b123-f700fec39290
 - TensorFlow/Keras
 
 # Running the Project
-1.Clone the repository: [git clone](https://github.com/your-username/hand-sign-recognition.git)
-2.Place your trained model and labels file in the model/ directory.
-3.Run the Python script:
 
+1.Run the Python script: python hand_sign_recognition.py
 
 Demo
 The script will open your webcam and start recognizing hand gestures in real-time.
